@@ -1,13 +1,12 @@
-To be updated before August 3
-
 **Content-aware Neural Hashing for Cold-start Recommendation**
 
-**Citation:** Casper Hansen, Christian Hansen, Jakob Grue Simonsen, Stephen Alstrup, and Christina Lioma. 2020. Content-aware Neural Hashing for Cold-start Recommendation. In _Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’20). Association for Computing Machinery, New York, NY, USA, 971–980.
+**Citation:** Casper Hansen, Christian Hansen, Jakob Grue Simonsen, Stephen Alstrup, and Christina Lioma. 2020. Content-aware Neural Hashing for Cold-start Recommendation. In _Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval_ (_SIGIR ’20_). Association for Computing Machinery, New York, NY, USA, 971–980. 
 
 The code is written for TensorFlow v. 1.12 and 1.14
 
 ## Datasets
-This link contains a downloadable version of all data used in the paper: link-will-be-provided-before-august-3
+This link contains a downloadable version of all data used in the paper: [https://www.dropbox.com/s/cyxgbgxvigbdw2h/cacf_data_code.zip?dl=0](https://www.dropbox.com/s/cyxgbgxvigbdw2h/cacf_data_code.zip?dl=0)
+
 We use datasets from Yelp and Amazon with the following naming scheme:
 
 - amazon: amazon dataset for the standard (in-matrix) setting
